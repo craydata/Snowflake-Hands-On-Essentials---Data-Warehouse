@@ -1,5 +1,5 @@
 # Snowflake-Hands-On-Essentials-Data-Warehouse
-
+https://user-images.githubusercontent.com/95032838/151679571-1609c124-0060-424f-b0ce-8ce4040975ee.mov
 - Using data from the shares included with every Snowflake trial account
 - Rename a shared database
 - Identify the source of shared data
@@ -18,6 +18,3 @@
 - Create a Provider Profile for a fictional company or organization
 - Set up a Standard Listing
 - Set up a Personalized Listing
-
-
-https://user-images.githubusercontent.com/95032838/151679571-1609c124-0060-424f-b0ce-8ce4040975ee.mov
